@@ -1,14 +1,14 @@
-# UVWatch Privacy Policy
+# TrackUV Privacy Policy
 
-**Last updated:** September 14, 2026
+**Last updated:** September 15, 2026
 
-UVWatch is a macOS menu-bar app and widget that shows the current UV index
+TrackUV is a macOS menu-bar app and widget that shows the current UV index
 for your location. This policy explains what data the app touches and what
 it does with it.
 
 ## 1. Information We Collect
 
-UVWatch does not collect, transmit, sell, or share any personal information
+TrackUV does not collect, transmit, sell, or share any personal information
 with us or with any third party. There are no user accounts, no analytics,
 and no advertising.
 
@@ -20,7 +20,7 @@ The only data the app touches is:
   widget have something to show instantly, and so they still work briefly
   offline.
 
-Both stay on your device. Neither is ever sent to us — UVWatch has no
+Both stay on your device. Neither is ever sent to us — TrackUV has no
 servers of its own.
 
 ## 2. How We Use Information
@@ -34,22 +34,22 @@ widget without waiting on a fresh network request every time.
 
 | Permission | Why |
 |---|---|
-| **Location (When In Use)** | Required to determine the UV index at your current location. Requested once, when you first open UVWatch. |
+| **Location (When In Use)** | Required to determine the UV index at your current location. Requested once, when you first open TrackUV. |
 | **Network access** | Used only to contact Apple's Weather service for UV data, and to load the small "Powered by Apple Weather" attribution image Apple requires apps to display. |
 
-UVWatch requests no other permissions — no camera, microphone, contacts,
+TrackUV requests no other permissions — no camera, microphone, contacts,
 photos, or file access.
 
 ## 4. Data Sharing and Third Parties
 
-UVWatch's only data partner is **Apple**, via the WeatherKit service built
+TrackUV's only data partner is **Apple**, via the WeatherKit service built
 into macOS. Your location is sent to Apple solely to retrieve weather data
 for that location; Apple's handling of that request is governed by Apple's
-own privacy policy, not this one. UVWatch does not add any tracking of its
+own privacy policy, not this one. TrackUV does not add any tracking of its
 own on top of that request, and does not receive your location back from
-Apple in any form UVWatch could store or reuse.
+Apple in any form TrackUV could store or reuse.
 
-UVWatch contains no third-party analytics or advertising software
+TrackUV contains no third-party analytics or advertising software
 development kits (SDKs) of any kind.
 
 The app shares the current UV reading (not your raw location) between the
@@ -59,18 +59,18 @@ Apple's standard App Group mechanism. This never leaves your Mac.
 ## 5. Data Retention and Deletion
 
 The cached UV reading is stored locally using standard macOS app storage
-and is automatically replaced each time UVWatch fetches new data. Deleting
-UVWatch (and its widget) from your Mac removes this cached data along with
+and is automatically replaced each time TrackUV fetches new data. Deleting
+TrackUV (and its widget) from your Mac removes this cached data along with
 the app.
 
 ## 6. Children's Privacy
 
-UVWatch does not knowingly collect information from anyone, including
+TrackUV does not knowingly collect information from anyone, including
 children, because it does not collect information from anyone at all.
 
 ## 7. Changes to This Policy
 
-If a future version of UVWatch ever changes how it handles location or
+If a future version of TrackUV ever changes how it handles location or
 adds a feature that communicates with a server we operate, this policy
 will be updated before that version ships, and the "Last updated" date
 above will change.
